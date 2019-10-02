@@ -1,0 +1,7 @@
+{
+  "appId": "uk.co.codeswag.app",
+  "appName": "codeswag.co.uk app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
